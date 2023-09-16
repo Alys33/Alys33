@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alys33" alt="alys33" /></a> </p>
 
-- 💬 Ask me about **Machine Learning, DataEngineering/Science, Spatial Analysis**
+- 💬 Ask me about **Machine Learning, Data Engineering/Science, Spatial Analysis**
 
 - 📫 How to reach me **savadogoaly33@gmail.com**
 
